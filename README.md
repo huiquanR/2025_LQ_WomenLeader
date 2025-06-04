@@ -1,2 +1,3 @@
-# 2025_SeeJaneRule
-This will be the folder for my ongoing project - See Jane Rule
+# 2025_LQ_WomenLeader
+* Seeing Is Believing: Exposure to Substantive Versus Symbolic Women Leaders and Perceptions of Women’s Leadership Potential *
+* Replication files.
